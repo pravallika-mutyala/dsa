@@ -12,5 +12,5 @@ class Solution:
         return count
 
 
-obj = Solution()
+obj = Solution() 
 print(obj.lengthOfLastWord("hello world"))
